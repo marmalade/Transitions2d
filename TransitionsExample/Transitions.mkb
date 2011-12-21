@@ -1,0 +1,15 @@
+files
+{
+	main.cpp
+}
+
+subprojects
+{
+	transitions2d
+	iw2d
+}
+
+assets
+{
+	(data)
+}
